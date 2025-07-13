@@ -5,7 +5,7 @@ A script to clean data in csv and xlsx format
 
 TO INSTALL CODE:
 
-  pip gitclone (link to repo)
+  gitclone (link to repo)
 
 TO-INSTALL REQUIREMENT:
 
