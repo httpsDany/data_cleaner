@@ -1,0 +1,51 @@
+id,name,email,age,experience,date of joining,branch,ph no,city,promotion_eligible,zip_code,current_salary
+1,John Doe,john@example.com,28,Junior Dev,05/12/2024,Backend,+91 5551234,Mumbai,True,400001,45000.0
+2,Jane Smith,jane.smith@mail.com,34,Senior Dev,01/06/2024,Frontend,+91 9876543210,Delhi,False,110001,80000.0
+3,Alex Ray,alex.ray@corp.net,41,Inter,29/06/2024,Database,"=HYPERLINK("""", ""+91-712345678"")",Bangalore,True,560001,120000.0
+4,Maya Lee,mayalee@webmail.com,29,Junior Dev,12/05/2024,Frontend,"=HYPERLINK("""", ""+91 2345 67890"")",Chennai,False,600001,60000.0
+5,Ryan Paul,ryan@startup.io,36,Senior Dev,12/05/2024,Backend,+91-7654321,Hyderabad,True,500001,95000.0
+6,Sara K,sara.k@domain.com,30,Inter,06/06/2024,Frontend,+91 9988776655,Kolkata,False,700001,55000.0
+7,Luke Shaw,lukeshaw@mail.org,33,Senior Dev,03/06/2024,Database,"=HYPERLINK("""", ""+91 876543210"")",Pune,True,411001,110000.0
+8,Ana Diaz,ana.d@data.com,27,Junior Dev,06/12/2024,Backend,+91 9000000000,Ahmedabad,False,380001,48500.0
+9,Ravi Kumar,ravi.k@mail.com,39,Inter,04/06/2024,Frontend,"=HYPERLINK("""", ""+91 456789123"")",Jaipur,True,302001,75000.0
+10,Linda White,linda.white@company.net,42,Senior Dev,13/06/2024,Database,+91 9876543210,Surat,False,395001,125000.0
+11,Tom Wills,tomw@code.net,29,Junior Dev,04/06/2024,Backend,+91 9998887777,Lucknow,True,226001,52000.0
+12,Nina Brown,nina@service.com,31,Inter,01/06/2024,Frontend,+91 2233445566,Kanpur,False,208001,68000.0
+13,Ethan Hunt,ethan.h@mail.net,45,Senior Dev,06/06/2024,Database,+91 9876541230,Nagpur,True,440001,140000.0
+14,Meera S,meera.s@mail.io,38,Inter,05/06/2024,Backend,+91 1234567,Indore,False,452001,62500.0
+15,Ali Khan,ali@ai.com,26,Junior Dev,06/06/2024,Frontend,+91 3333333333,Thane,True,400601,51000.0
+16,Emily Z,emily.z@design.com,35,Inter,06/07/2024,Database,+91 1122334455,Patna,False,800001,72000.0
+17,Kiran G,kiran.g@mail.org,32,Senior Dev,06/06/2024,Backend,+91 9999999,Vadodara,True,390001,92000.0
+18,Olivia W,olivia@company.io,29,Inter,06/06/2024,Frontend,+91 7007007000,Ghaziabad,False,201001,58000.0
+19,Mohit R,mohit.r@corp.org,37,Senior Dev,04/06/2024,Database,+91 8888888888,Ludhiana,True,141001,105000.0
+20,Alice H,aliceh@webmail.net,40,Junior Dev,06/08/2024,Backend,+91 1231231234,Agra,False,282001,49500.0
+21,Ryan P,ryan.p@mail.com,34,Inter,07/06/2024,Frontend,+91 4564564560,Noida,True,201301,76000.0
+22,Brenda V,brenda.v@global.com,33,Senior Dev,06/07/2024,Database,+91 6546546543,Faridabad,False,121001,118000.0
+23,Avi Mehta,avi.m@ai.com,28,Junior Dev,06/06/2024,Backend,+91 5551239870,Meerut,True,250001,54000.0
+24,Natasha J,natasha.j@mail.com,36,Senior Dev,08/06/2024,Frontend,+91 3213213210,Rajkot,False,360001,88000.0
+25,Omar A,omar.a@info.net,39,Inter,06/06/2024,Frontend,"=HYPERLINK("""", ""+91 111222333"")",Varanasi,True,221001,82000.0
+26,Samira M,samira@openai.org,27,Junior Dev,06/09/2024,Database,"=HYPERLINK("""", ""+91900123456"")",Srinagar,False,190001,50000.0
+27,David N,david.n@tech.io,35,Senior Dev,09/06/2024,Backend,+91 8008008000,Amritsar,True,143001,112000.0
+28,Ritu Y,ritu.y@mail.org,31,Inter,06/10/2024,Frontend,+91 4561237890,Allahabad,False,211001,65000.0
+29,Carlos F,carlos@dev.net,30,Junior Dev,10/06/2024,Database,+91 9990001111,Ranchi,True,834001,78500.0
+30,Ishaan C,ishaan.c@corp.com,40,Senior Dev,06/10/2024,Backend,+91 7894561230,Coimbatore,False,641001,135000.0
+31,Mina D,mina.d@design.org,32,Inter,10/06/2024,Frontend,+91 5556667770,Jabalpur,True,482001,69000.0
+32,Leo J,leo.j@firm.net,34,Senior Dev,06/11/2024,Database,+91 8881112220,Guntur,False,522001,95000.0
+33,Tanya L,tanya.l@aol.com,27,Junior Dev,11/06/2024,Backend,+91 3334445555,Gurugram,True,122001,56000.0
+34,Vikram S,vikram.s@mail.com,37,Inter,06/06/2024,Frontend,+91 6669990000,Jodhpur,False,342001,83000.0
+35,Arun M,arun.m@info.org,28,Senior Dev,12/06/2024,Database,+91 3332221111,Madurai,True,625001,102500.0
+36,Grace K,grace.k@techmail.net,31,Junior Dev,13/06/2024,Backend,+91 7418529630,Raipur,False,492001,53000.0
+37,Neha R,neha.r@company.com,33,Inter,13/06/2024,Frontend,+91 2583691470,Chandigarh,True,160001,75000.0
+38,Aditya V,aditya.v@openmail.net,36,Senior Dev,14/06/2024,Database,+91 9638527410,Mysore,False,570001,128000.0
+39,Lara S,lara.s@live.org,29,Junior Dev,14/06/2024,Backend,+91 1593572580,Bhopal,True,462001,59000.0
+40,Farhan T,farhan.t@agency.com,34,Inter,15/06/2024,Frontend,+91 1597534862,Aurangabad,False,431001,67000.0
+41,Rosa M,rosa.m@mail.net,38,Senior Dev,15/06/2024,Database,+91 7539518524,Dehradun,True,248001,142000.0
+42,Steve O,steve.o@devmail.org,30,Junior Dev,16/06/2024,Backend,+91 1119992222,Salem,False,636001,51000.0
+43,Ivy P,ivy.p@startup.io,27,Inter,16/06/2024,Frontend,+91 8001234567,Bhiwandi,True,421302,71000.0
+44,Nitin R,nitin.r@design.com,31,Senior Dev,17/06/2024,Database,+91 3692581470,Ujjain,False,456001,97000.0
+45,Divya M,divya.m@domain.org,35,Inter,17/06/2024,Backend,+91 7412589630,Mangalore,True,575001,115000.0
+46,Oscar T,oscar.t@mail.com,40,Junior Dev,18/06/2024,Frontend,+91 1472583690,Bareilly,False,243001,54500.0
+47,Kavya N,kavya.n@global.io,33,Senior Dev,18/06/2024,Database,+91 7891234560,Bokaro,True,827001,108000.0
+48,Elena Z,elena.z@xyzmail.com,30,Inter,19/06/2024,Backend,+91 9637418520,Aligarh,False,202001,63000.0
+49,Rajiv L,rajiv.l@mail.in,37,Junior Dev,19/06/2024,Frontend,+91 1234567890,Jamshedpur,True,831001,73500.0
+50,Hailey G,hailey.g@cloud.org,29,Inter,20/06/2024,Database,+91 2583691470,Gorakhpur,False,273001,132000.0
