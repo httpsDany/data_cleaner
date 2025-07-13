@@ -4,12 +4,15 @@ A script to clean data in csv and xlsx format
 
 
 TO INSTALL CODE:
+
   pip gitclone (link to repo)
 
 TO-INSTALL REQUIREMENT:
+
   pip install -r requirements.txt
 
 TO RUN THE CODE:
+
   python3 data_cleaner.py /path/to/file.(csv,xlsx)
 
 Works with both windows and linux
@@ -36,9 +39,13 @@ The tool can clean the
 
 
 Drawback:
+
 a)Using currency in CSV, make sure to put the currency column data inside double quote 
+
 Example:  "20,000 thousand"
+
 b) Cannot differentiate between currency type so in considers all currency the same
+
 Example "INR 20,000" and "USD 2,000" is considered the same
 
 *preffered using xlsx, but works with csv as well*
