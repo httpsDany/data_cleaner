@@ -4,13 +4,13 @@ A script to clean data in csv and xlsx format
 
 
 TO INSTALL CODE
-pip gitclone (link to repo)
+  pip gitclone (link to repo)
 
 TO-INSTALL REQUIREMENT
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 TO RUN THE CODE
-python3 data_cleaner.py /path/to/file.(csv,xlsx)
+  python3 data_cleaner.py /path/to/file.(csv,xlsx)
 
 The tool can clean the 
 -categorical column typo 
